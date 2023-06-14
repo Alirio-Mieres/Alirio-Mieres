@@ -17,6 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alirio-mieres&show_icons=true&locale=en&layout=compact" alt="alirio-mieres" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alirio-mieres&show_icons=true&locale=en" alt="alirio-mieres" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirio-mieres&" alt="alirio-mieres" /></p>
