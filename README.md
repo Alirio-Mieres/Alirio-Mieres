@@ -2,7 +2,7 @@
 
 Hello World! 👋
 
-I am Alirio Mieres, a software developer interested in web development and machine learning.
+I am Alirio Mieres, a software developer interested in web development and AI.
 
 ## About Me
 
