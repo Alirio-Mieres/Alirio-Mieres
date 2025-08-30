@@ -2,7 +2,7 @@
 
 Hello World! 👋
 
-I am Alirio Mieres, a software developer interested in web development and AI.
+I am Alirio Mieres, a software engineer interested in web development and AI.
 
 ## About Me
 
@@ -15,7 +15,7 @@ I am Alirio Mieres, a software developer interested in web development and AI.
 
 ## Technologies and Tools
 
-- Proficient in JavaScript, TypeScript, Python, Node.js, SQL, MongoDB.
+- Proficient in JavaScript, TypeScript, Python, Node.js, SQL, and MongoDB.
 - Backend frameworks: Express and NestJS.
 - Knowledge of React and Next.js.
 - I have also used Java and PHP in some projects.
